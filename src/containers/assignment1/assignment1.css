@@ -1,0 +1,27 @@
+.input_task {
+    width: 80%;
+    height: 1rem;
+    border-radius: 25px;
+    box-shadow: -8px -8px 12px #ffffff, 8px 8px 12px #a3b1c6;
+}
+
+.icon_style {
+    font-size: 25px;
+}
+
+.items_container {
+    display: flex;
+    justify-content: space-between;
+    /* width: 92%; */
+}
+
+.task_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.modal-content {
+    background-color: #e0e5ec;
+}

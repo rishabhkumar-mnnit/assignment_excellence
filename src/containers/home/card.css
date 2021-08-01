@@ -1,0 +1,17 @@
+.card_container {
+    width: 170px;
+    height: 40px;
+    border-radius: 25px;
+    box-shadow: -8px -8px 12px #ffffff , 8px 8px 12px #a3b1c6;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.task_name {
+    text-decoration: none;
+}
